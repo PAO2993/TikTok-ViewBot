@@ -1,4 +1,4 @@
-hsja# I used tekky's script because I was too lazy to do it, it's just a simple script.
+# I used tekky's script because I was too lazy to do it, it's just a simple script.
 
 from time import sleep
 from datetime import datetime
